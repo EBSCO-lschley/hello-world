@@ -1,2 +1,3 @@
 # hello-world
-Beginners stuff
+Beginner's stuff.
+This is some stuff about me.
